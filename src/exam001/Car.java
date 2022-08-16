@@ -10,6 +10,6 @@ public class Car {
     }
 
     public String getTireBrand(){
-        return "This Tire is get " + tire.getBrand();
+        return "This tire is get " + tire.getBrand();
     }
 }

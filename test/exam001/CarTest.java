@@ -10,7 +10,7 @@ class CarTest {
     void getTireBrandTest() {
         Car car = new Car();
 
-        assertEquals("This Tire is get Korea tire!", car.getTireBrand());
+        assertEquals("This tire is get Korea tire!", car.getTireBrand());
     }
 
 
