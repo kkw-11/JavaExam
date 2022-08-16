@@ -1,8 +1,9 @@
-package exam001;
+package exam003;
 
 public class KoreaTire implements Tire{
+
     @Override
-    public String getBrand() {
+    public String getBrand(){
         return "Korea tire!";
     }
 }

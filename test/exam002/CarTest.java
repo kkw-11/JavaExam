@@ -11,7 +11,7 @@ class CarTest {
         Tire tire = new KoreaTire();
         Car car = new Car(tire);
 
-        assertEquals("This Tire is get Korea Tire!", car.getTireBrand());
+        assertEquals("This Tire is get Korea tire!", car.getTireBrand());
     }
 
     @Test
@@ -19,6 +19,6 @@ class CarTest {
         Tire tire = new AmericaTire();
         Car car = new Car(tire);
 
-        assertEquals("This Tire is get America Tire!", car.getTireBrand());
+        assertEquals("This Tire is get America tire!", car.getTireBrand());
     }
 }
