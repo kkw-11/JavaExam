@@ -1,5 +1,9 @@
 package exam002;
 
+import di.exam002.AmericaTire;
+import di.exam002.Car;
+import di.exam002.KoreaTire;
+import di.exam002.Tire;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
