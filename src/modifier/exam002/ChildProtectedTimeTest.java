@@ -11,7 +11,10 @@ public class ChildProtectedTimeTest extends Time{
         ct.hour = 10;
         ct.minute = 10;
         ct.second = 30;
+<<<<<<< HEAD
 
         System.out.println(ct.hour + ":" + ct.minute + ":" + ct.second);
+=======
+>>>>>>> 771f2daa99dd15e3e55cc0ddba13e3abc86bae88
     }
 }
